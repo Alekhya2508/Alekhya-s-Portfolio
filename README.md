@@ -17,6 +17,10 @@ About Me
 Projects
 Skills
 Contact
+
+## 🔗 Live Website
+
+👉 [View Portfolio]( https://alekhya2508.github.io/Alekhya-s-Portfolio/)
 🎯 Purpose
 
 The purpose of this portfolio is to present my work, highlight my technical abilities, and create an online presence for academic and career opportunities.

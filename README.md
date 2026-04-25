@@ -20,7 +20,7 @@ Contact
 
 ## 🔗 Live Website
 
-👉 View Portfolio( https://alekhya2508.github.io/Alekhya-s-Portfolio/)
+👉 [View Portfolio]( https://alekhya2508.github.io/Alekhya-s-Portfolio/)
 
 🎯 Purpose
 
